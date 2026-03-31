@@ -1,0 +1,1 @@
+The Classical Linear Regression Model (CLRM) provides the theoretical foundation for Ordinary Least Squares (OLS) estimation in econometrics. It relies on specific assumptions (Gauss-Markov) to ensure OLS produces Best Linear Unbiased Estimators (BLUE), meaning the estimates are optimal, unbiased, and have minimum variance.
